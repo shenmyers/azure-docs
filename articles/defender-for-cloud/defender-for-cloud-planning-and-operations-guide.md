@@ -211,7 +211,7 @@ We hope this document helped you create a successful plan for your Defender for 
 
 **Resources**
 
-> Read [Defender for Cloud common questions](faq-general.yml) for a list of common questions (FAQ) that may be useful during the designing and planning phase.
+> Read [Defender for Cloud common questions](faq-general.yml) for a list of common questions (FAQ) that may be useful during the designing and planning phase. 
 
 - [Managing and responding to security alerts in Defender for Cloud](managing-and-responding-alerts.md) How to manage and respond to alerts. 
 - [Monitoring partner solutions with Defender for Cloud](./partner-integration.md) - Learn how to monitor the health status of your partner solutions.
